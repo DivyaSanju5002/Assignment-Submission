@@ -1,0 +1,28 @@
+.one {
+  height: 100%;
+  width: 100%;
+  background-color: aqua;
+}
+.two {
+  height: 100%;
+  width: 100%;
+  background-color: teal;
+}
+
+.three {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(211, 217, 230);
+}
+
+#four {
+  height: 100%;
+  padding-left: 50px;
+  display: inline-block;
+}
+
+#five {
+  height: 100%;
+  padding-left: 50px;
+  display: inline-block;
+}
